@@ -1,6 +1,4 @@
 # Explorando Padrões de Projetos na Prática com Java
 
-Repositório com as implementações dos padrões de projeto explorados no Lab "Explorando Padrões de Projetos na Prática com Java". Especificamente, este projeto explorou alguns padrões usando o Spring Framework, são eles:
-- Singleton
-- Strategy/Repository
-- Facade
+
+Desenvolvimendo de API de cadastro de cliente com endereço onde faz o preenchimento por meio da API Viacep
